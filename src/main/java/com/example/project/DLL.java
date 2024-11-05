@@ -77,7 +77,7 @@ public class DLL<T> {
 		return;
 	p.next = q;
 	q.previous = p;
-c	urrent = head;
+	current = head;
 
     }
 }
